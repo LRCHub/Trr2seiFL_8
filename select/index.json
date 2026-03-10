@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Run Back to You",
+  "base_artist": "Hoang",
+  "createdAt": "2026-03-10T03:37:40.234693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Run Back To You",
+      "artist": "LAY",
+      "has_synced": true,
+      "path": "select/01_Run_Back_To_You_LAY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Run Back To You",
+      "artist": "Lay",
+      "has_synced": false,
+      "path": "select/02_Run_Back_To_You_Lay.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Hoang",
+      "has_synced": false,
+      "path": "select/03_Run_Back_to_You_Hoang.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Run Back To You",
+      "artist": "Lay, Lauv",
+      "has_synced": true,
+      "path": "select/04_Run_Back_To_You_Lay,_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Hoang, Alisa",
+      "has_synced": true,
+      "path": "select/05_Run_Back_to_You_Hoang,_Alisa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Lay × Lauv",
+      "has_synced": true,
+      "path": "select/06_Run_Back_to_You_Lay_×_Lauv.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "run back to you",
+      "artist": "lay ft. lauv",
+      "has_synced": false,
+      "path": "select/07_run_back_to_you_lay_ft._lauv.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Run Back To You",
+      "artist": "LAY feat. Lauv",
+      "has_synced": true,
+      "path": "select/08_Run_Back_To_You_LAY_feat._Lauv.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Run Back To You (with Lauv)",
+      "artist": "LAY",
+      "has_synced": true,
+      "path": "select/09_Run_Back_To_You_(with_Lauv)_LAY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Hoang feat. Alisa",
+      "has_synced": true,
+      "path": "select/10_Run_Back_to_You_Hoang_feat._Alisa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Run Back To You",
+      "artist": "LAY feat. Lauv",
+      "has_synced": true,
+      "path": "select/11_Run_Back_To_You_LAY_feat._Lauv.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Jim Brickman feat. Keil Bishoprick",
+      "has_synced": false,
+      "path": "select/12_Run_Back_to_You_Jim_Brickman_feat._Keil_Bishoprick.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Brickman, Jim feat. Bishoprick, Keil",
+      "has_synced": false,
+      "path": "select/13_Run_Back_to_You_Brickman,_Jim_feat._Bishoprick,_Keil.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Run Back to You",
+      "artist": "Vicious Summer",
+      "has_synced": true,
+      "path": "select/14_Can't_Run_Back_to_You_Vicious_Summer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Run Back to You",
+      "artist": "Hoang ft. Alisa",
+      "has_synced": true,
+      "path": "select/15_Run_Back_to_You_Hoang_ft._Alisa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Run Back To You (VIDI Remix)",
+      "artist": "LAY",
+      "has_synced": false,
+      "path": "select/16_Run_Back_To_You_(VIDI_Remix)_LAY.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Run Back To You (VIDI Remix)",
+      "artist": "VIDI",
+      "has_synced": true,
+      "path": "select/17_Run_Back_To_You_(VIDI_Remix)_VIDI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Run Back To You",
+      "artist": "LAY, Lauv, VIDI",
+      "has_synced": true,
+      "path": "select/18_Run_Back_To_You_LAY,_Lauv,_VIDI.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Run Back to Your Side",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/19_Run_Back_to_Your_Side_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Run Back to Your Side",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/20_Run_Back_to_Your_Side_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Run Back to Mama",
+      "artist": "Chase",
+      "has_synced": true,
+      "path": "select/21_Run_Back_to_Mama_Chase.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Run Back to Me",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/22_Run_Back_to_Me_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Run Back To Me",
+      "artist": "Trey Lorenz",
+      "has_synced": true,
+      "path": "select/23_Run_Back_To_Me_Trey_Lorenz.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Run Back to Your Side",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/24_Run_Back_to_Your_Side_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Wildebeest (Come-Run Back to Home)",
+      "artist": "The Frogs",
+      "has_synced": true,
+      "path": "select/25_Wildebeest_(Come-Run_Back_to_Home)_The_Frogs.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Run Back To You (VIDI Remix)",
+      "artist": "Lay, Lauv, Vidi",
+      "has_synced": true,
+      "path": "select/26_Run_Back_To_You_(VIDI_Remix)_Lay,_Lauv,_Vidi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Run Back to You",
+      "artist": "Hoang, Alisa",
+      "has_synced": false,
+      "path": "select/pl_01_Run_Back_to_You_Hoang,_Alisa.txt"
+    }
+  ]
+}
